@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22 02:16 UTC",
-  "updated_kst": "2026-08-22 11:16 KST",
+  "updated": "2026-08-23 02:24 UTC",
+  "updated_kst": "2026-08-23 11:24 KST",
   "stocks": {
     "TSLA": {
       "price": 362.86,
@@ -73,8 +73,8 @@
       "flag": "🇨🇳"
     },
     "VWAGY": {
-      "price": 8.89,
-      "change_pct": 0.91,
+      "price": 8.88,
+      "change_pct": 0.79,
       "currency": "USD",
       "name": "Volkswagen",
       "flag": "🇩🇪"
