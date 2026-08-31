@@ -11,7 +11,7 @@
 
 ## English
 
-Unreal Engine Hub is a web dashboard that brings together Unreal Engine news, free assets, learning resources, and autonomous-driving simulation content in one place. It is designed as a practical information hub for developers and researchers who want to track the Unreal Engine ecosystem without searching across multiple sites.
+AutonomousVehicle-UnrealEngineHub is a web dashboard that brings together Unreal Engine news, free assets, learning resources, and autonomous-driving simulation content in one place. It is designed as a practical information hub for developers and researchers who want to track the Unreal Engine ecosystem without searching across multiple sites.
 
 ### Highlights
 
@@ -37,7 +37,7 @@ Unreal Engine Hub is a web dashboard that brings together Unreal Engine news, fr
 
 ## 한국어
 
-Unreal Engine Hub는 언리얼 엔진 최신 뉴스, 무료 에셋, 학습 자료와 자율주행 시뮬레이션 관련 정보를 한곳에서 확인할 수 있도록 만든 웹 대시보드입니다. 여러 사이트를 따로 검색하지 않고 언리얼 엔진 생태계의 주요 정보를 빠르게 확인하려는 개발자와 연구자를 위한 프로젝트입니다.
+AutonomousVehicle-UnrealEngineHub는 언리얼 엔진 최신 뉴스, 무료 에셋, 학습 자료와 자율주행 시뮬레이션 관련 정보를 한곳에서 확인할 수 있도록 만든 웹 대시보드입니다. 여러 사이트를 따로 검색하지 않고 언리얼 엔진 생태계의 주요 정보를 빠르게 확인하려는 개발자와 연구자를 위한 프로젝트입니다.
 
 ### 주요 기능
 
