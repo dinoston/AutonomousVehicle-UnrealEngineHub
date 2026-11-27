@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26 09:15 UTC",
-  "updated_kst": "2026-11-26 18:15 KST",
+  "updated": "2026-11-27 09:31 UTC",
+  "updated_kst": "2026-11-27 18:31 KST",
   "stocks": {
     "TSLA": {
       "price": 380.14,
@@ -31,15 +31,15 @@
       "flag": "🇨🇳"
     },
     "MBG.DE": {
-      "price": 38.24,
-      "change_pct": 2.36,
+      "price": 38.94,
+      "change_pct": 3.72,
       "currency": "EUR",
       "name": "Mercedes",
       "flag": "🇩🇪"
     },
     "BMW.DE": {
-      "price": 56.44,
-      "change_pct": 5.97,
+      "price": 58.46,
+      "change_pct": 5.83,
       "currency": "EUR",
       "name": "BMW",
       "flag": "🇩🇪"
